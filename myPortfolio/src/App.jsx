@@ -1,10 +1,10 @@
 import Navbar from "./components/Navbar";
 import Home from "./sections/Home";
-import About from "./sections/About"
-import Edu from "./sections/Edu"
+import About from "./sections/About";
+import Edu from "./sections/Edu";
 import Skill from "./sections/skill";
 import Project from "./sections/Project";
-import Footer from "./components/Footer"
+import Footer from "./components/Footer";
 
 import './app.css';
 
