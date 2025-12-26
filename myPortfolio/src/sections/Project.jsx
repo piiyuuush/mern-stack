@@ -1,5 +1,5 @@
 import './project.css'
-import ProjectCard from '../components/projectcard'
+import ProjectCard from '../components/ProjectCard'
 import { Element } from 'react-scroll'
 
 export default function Project(){

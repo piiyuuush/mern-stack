@@ -1,5 +1,5 @@
 import './skill.css'
-import Card from '../components/card'
+import Card from '../components/card';
 import { Element } from 'react-scroll';
 
 export default function Skill(){
