@@ -1,0 +1,21 @@
+.project-card{
+    display: flex;
+    padding: 12px 32px;
+    gap: 32px;
+    border: 1px solid #777;
+    border-radius: 12px;
+    width: 95%;
+}
+
+.project-icon{
+    height: 150px;
+    width: 150px;
+    background-color: lightyellow;
+    border: 1px solid yellow;
+}
+
+.content{
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+}

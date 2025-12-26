@@ -1,0 +1,10 @@
+.project{
+    flex-direction: column;
+    gap: 32px;
+}
+
+.project-list{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}

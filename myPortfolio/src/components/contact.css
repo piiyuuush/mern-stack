@@ -1,0 +1,25 @@
+.contact-card{
+    border: 1px solid grey;
+    border-radius: 12px;
+}
+
+.contact-form{
+    display: flex;
+    flex-direction: column;
+    padding: 12px;
+    gap: 8px;
+    width: 18rem;
+}
+
+.inputs{
+    background-color: rgb(37, 37, 37);
+    border: 1px solid white;
+    color: white;
+    border-radius: 12px;
+    height: 2rem;
+    padding: 8px;
+}
+
+#message{
+    height: 5rem;
+}

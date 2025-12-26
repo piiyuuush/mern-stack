@@ -1,0 +1,13 @@
+.footer{
+    background-color: black;
+    color: white;
+}
+.social-icons{
+    padding: 12px 0px;
+    display: flex;
+    gap: 10px;
+}
+
+.quick-links{
+    cursor: pointer;
+}

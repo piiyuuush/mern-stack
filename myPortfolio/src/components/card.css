@@ -1,0 +1,20 @@
+.card{
+  width: 330px;
+  height: 287px;
+  padding: 24px;
+  gap: 16px;
+  min-width: 330px;
+  min-height: 287px;
+  border: 1px solid #b4b4b4;
+  border-radius: 8px;
+  overflow-y: hidden;
+}
+
+
+ul{
+  list-style-type: none;
+  padding: 6px;
+}
+li{
+  margin-bottom: 4px;
+}

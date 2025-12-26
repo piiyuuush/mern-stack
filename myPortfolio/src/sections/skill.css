@@ -1,0 +1,10 @@
+.skill{
+    flex-direction: column;
+}
+
+.skill-wrapper{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+

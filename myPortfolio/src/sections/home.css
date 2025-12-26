@@ -1,0 +1,37 @@
+.hero{
+    align-items: center;
+}
+
+.hero-text{
+    display: flex;
+    flex-direction: column;
+    gap: 42px;
+}
+
+/* illustration part */
+
+.hero-image{
+    height:100%;
+    width: auto;
+}
+
+.hero-illustration{
+    display: flex;
+    gap: 32px;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+.strips{
+    background-color: #4d4d4d;
+    width: 4px;
+    height: 8rem;
+}
+
+.socials{
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
+    align-items: center;
+    justify-content: center;
+}
