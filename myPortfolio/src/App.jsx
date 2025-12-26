@@ -1,5 +1,5 @@
 import Navbar from "./components/Navbar";
-import Home from "./sections/Home";
+import Home from "./sections/home";
 import About from "./sections/About";
 import Edu from "./sections/Edu";
 import Skill from "./sections/skill";
